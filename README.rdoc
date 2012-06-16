@@ -5,7 +5,7 @@ I know there is already a lot of different CSS implementations of these ribbons.
 
 == How to use it?
 
-Put +ribbons.css+ in a directory where you keep your stylesheets.
+Put *ribbons.css* in a directory where you keep your stylesheets.
 Then add these lines to your page or template:
 
 In the <head>:
@@ -14,8 +14,8 @@ In the <head>:
 
 In the <body>:
 
-  <div class="ribbon +left red+">
-    <a href="+link to your repo+">Fork me on GitHub</a>
+  <div class="ribbon left red">
+    <a href="<link to your repo>">Fork me on GitHub</a>
   </div>
 
 Enjoy your brand new CSS3-powered ribbons!
@@ -23,8 +23,8 @@ Enjoy your brand new CSS3-powered ribbons!
 
 == Customizing
 
-Pick any color from +black+, +red+, +green+, +orange+, +purple+, +grey+ and +white+.
-You can also choose between +left+ and +right+ aligning of the ribbon.
+Pick any color from *black*, *red*, *green*, *orange*, *purple*, *grey* and *white*.
+You can also choose between *left* and *right* aligning of the ribbon.
 
 
 == It is not working!
@@ -34,4 +34,4 @@ Make sure you performed all these steps from above. If it is still not working, 
 
 == License
 
-Feel free to use this however you want. See the +LICENSE+ file for more information.
+Feel free to use this however you want. See the *LICENSE* file for more information.
