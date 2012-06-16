@@ -1,0 +1,37 @@
+= GitHub Ribbons written in CSS3
+
+I know there is already a lot of different CSS implementations of these ribbons. However, by the time I made this one I didn't know about it, so here it is.
+
+
+== How to use it?
+
+Put +ribbons.css+ in a directory where you keep your stylesheets.
+Then add these lines to your page or template:
+
+In the <head>:
+
+  <link href="ribbons.css" rel="stylesheet" type="text/css" />
+
+In the <body>:
+
+  <div class="ribbon +left red+">
+    <a href="+link to your repo+">Fork me on GitHub</a>
+  </div>
+
+Enjoy your brand new CSS3-powered ribbons!
+
+
+== Customizing
+
+Pick any color from +black+, +red+, +green+, +orange+, +purple+, +grey+ and +white+.
+You can also choose between +left+ and +right+ aligning of the ribbon.
+
+
+== It is not working!
+
+Make sure you performed all these steps from above. If it is still not working, {contact me}[https://github.com/petethepig] and I will be glad to help.
+
+
+== License
+
+Feel free to use this however you want. See the +LICENSE+ file for more information.
