@@ -2,6 +2,10 @@
 
 I know there is already a lot of different CSS implementations of these ribbons. However, by the time I made this one I didn't know about it, so here it is.
 
+http://dfilimonov.com/github-ribbons-demo/image.png
+
+Take a look at the demo {here}[http://dfilimonov.com/github-ribbons-demo]
+
 
 == How to use it?
 
