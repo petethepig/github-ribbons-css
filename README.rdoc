@@ -27,7 +27,7 @@ Enjoy your brand new CSS3-powered ribbons!
 
 == Customizing
 
-Pick any color from *black*, *red*, *green*, *orange*, *purple*, *grey* and *white*.
+Pick any color from *black*, *red*, *blue*, *green*, *orange*, *purple*, *grey* and *white*.
 You can also choose between *left* and *right* aligning of the ribbon.
 
 

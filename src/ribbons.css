@@ -55,8 +55,16 @@ body{
   text-shadow:0 0 10px rgba(0,0,0,0.31);
 }
 
+.ribbon.black{
+  background:#000;
+}
+
 .ribbon.red{
   background:#c00;
+}
+
+.ribbon.blue{
+  background:#09e;
 }
 
 .ribbon.green{
