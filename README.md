@@ -8,7 +8,7 @@ I know there are a lot of different CSS implementations of these ribbons. But an
 Take a look at the demo [here](http://petethepig.github.io/github-ribbons-css)
 
 
-# How to use it?
+## How to use it?
 
     <div class="ribbon left red">
       <a href="https://github.com/username/repo">Fork me on GitHub</a>
@@ -17,13 +17,13 @@ Take a look at the demo [here](http://petethepig.github.io/github-ribbons-css)
 Enjoy!
 
 
-# Customizing
+## Customizing
 
 Pick from: **black**, **red**, **blue**, **green**, **orange**, **purple**, **grey** and **white**
 
 **left** and **right**
 
 
-# License
+## License
 
 MIT
