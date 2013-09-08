@@ -2,25 +2,17 @@
 
 I know there are a lot of different CSS implementations of these ribbons. But anyway, here is mine:
 
-![demo.png](http://dfilimonov.com/github-ribbons-demo/image.png)
 
-Take a look at the demo [here](http://dfilimonov.com/github-ribbons-demo)
+![demo.png](http://petethepig.github.io/github-ribbons-css/demo.png)
+
+Take a look at the demo [here](http://petethepig.github.io/github-ribbons-css)
 
 
 # How to use it?
 
-Put *ribbons.css* in a directory where you keep your stylesheets.
-Then add these lines to your page or template:
-
-In the <head>:
-
-  <link href="ribbons.css" rel="stylesheet" type="text/css" />
-
-In the <body>:
-
-  <div class="ribbon left red">
-    <a href="<link to your repo>">Fork me on GitHub</a>
-  </div>
+    <div class="ribbon left red">
+      <a href="https://github.com/username/repo">Fork me on GitHub</a>
+    </div>
 
 Enjoy!
 
@@ -34,4 +26,4 @@ Pick from: **black**, **red**, **blue**, **green**, **orange**, **purple**, **gr
 
 # License
 
-Feel free to use this however you want. See the *LICENSE* file for more information.
+MIT
