@@ -1,0 +1,56 @@
+html,body,img{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+div.container{
+  position: relative;
+  height: 200px;
+  background: white;
+  overflow: hidden;
+}
+
+div.container.black{
+  position: relative;
+  height: 200px;
+  background: black;
+}
+
+h1{
+  margin-top: 0;
+}
+
+div#ribbons-demo{
+  margin: 0 auto;
+  width: 600px;
+  height: 300px;
+  background: white;
+  z-index: 100;
+  position: fixed;
+  top: 50%;
+  left: 50%;  
+  margin-top: -150px;
+  margin-left: -300px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-shadow: 0 0 10px #ccc;
+  font-family: Helvetica, Arial;
+  padding: 20px;
+}
+
+div#ribbons-demo a, div#ribbons-demo a: visited{
+  color: #08C;
+}
+
+code{
+  display: block;
+  border: 1px solid #eee;
+  border-radius: 2px;  
+  padding: 10px;
+}
+
+span{
+  color: #e00;
+  font-weight: bold;
+}
