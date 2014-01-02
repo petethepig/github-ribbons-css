@@ -27,3 +27,5 @@ Pick from: **black**, **red**, **blue**, **green**, **orange**, **purple**, **gr
 ## License
 
 MIT
+
+[![Analytics](https://ga-beacon.appspot.com/UA-32704322-2/github-ribbons-css/index)](https://github.com/igrigorik/ga-beacon)
