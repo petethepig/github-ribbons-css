@@ -93,3 +93,33 @@ body{
 .ribbon.white a{
   border: 2px dotted rgba(100,100,100,0.2);
 }
+
+/* HOVER EFFECT
+––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+.ribbon.hover-effect{
+  -webkit-transition: background .2s ease-in-out;
+  -moz-transition: background .2s ease-in-out;
+  -ms-transition: background .2s ease-in-out;
+  -o-transition: background .2s ease-in-out;
+  transition: background .2s ease-in-out;
+}
+.ribbon.hover-effect a{
+  -webkit-transition: color .2s ease-in-out;
+  -moz-transition: color .2s ease-in-out;
+  -ms-transition: color .2s ease-in-out;
+  -o-transition: color .2s ease-in-out;
+  transition: color .2s ease-in-out;
+}
+
+/* Grey */
+.ribbon.grey.hover-effect:hover{
+  background: #000;
+}
+
+/* Black */
+.ribbon.black.hover-effect:hover{
+  background: #fff;
+}
+.ribbon.black.hover-effect:hover a{
+  color: #000;
+}
